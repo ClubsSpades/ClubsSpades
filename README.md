@@ -1,4 +1,4 @@
-## Hi there ClubsSpades! 👋
+## Hi there ClubsSpades! 👋 🍁
 
 <div align="center">
 
@@ -15,5 +15,11 @@
 >
 > 愿我们都一直在自己喜欢的路上前行。
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
+</picture>
 
+--- 
 ![ClubsSpades's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ClubsSpades)
