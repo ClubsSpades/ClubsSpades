@@ -9,7 +9,7 @@
 
 ---
 
-### ☁️ About Me
+### 🗻 About Me
 
 > 没什么很伟大的梦想：只是想永远都能有能力有时间做自己喜欢做的事情。
 >
@@ -22,7 +22,7 @@
 </picture>
 
 --- 
-&nbsp;**Latest Blog Posts**
+### 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [时间焦虑症](https://clubsspades.github.io/TimeAnxiety/)
 - [vi/vim的使用](https://clubsspades.github.io/vi&vim_usage/)
