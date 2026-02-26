@@ -22,4 +22,8 @@
 </picture>
 
 --- 
+&nbsp;**Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+---
 ![ClubsSpades's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ClubsSpades)
