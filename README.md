@@ -24,6 +24,11 @@
 --- 
 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [时间焦虑症](https://clubsspades.github.io/TimeAnxiety/)
+- [vi/vim的使用](https://clubsspades.github.io/vi&vim_usage/)
+- [Docker学习记录](https://clubsspades.github.io/%E4%BA%91%E5%B9%B3%E5%8F%B0%E5%BC%80%E5%8F%91--Docker/)
+- [学习软考中级信息安全工程师存档](https://clubsspades.github.io/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E5%B7%A5%E7%A8%8B%E5%B8%88/)
+- [2025gxwlaqgl](https://clubsspades.github.io/2025gxwlaqgl/)
 <!-- BLOG-POST-LIST:END -->
 ---
 ![ClubsSpades's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ClubsSpades)
