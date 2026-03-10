@@ -25,7 +25,7 @@
 ### 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [PolyUCTF 2026 MISC Greenhat Writeup](https://clubsspades.github.io/polyuctf-2026-misc-greenhat/)
-- [PolyUCTF2026 MISC MIDI隐写 writeup](https://clubsspades.github.io/polyuctf-2026-misc-midi/)
+- [PolyUCTF 2026 MISC MIDI隐写 writeup](https://clubsspades.github.io/polyuctf-2026-misc-midi/)
 - [【HTB Academy】Linux取证练习记录](https://clubsspades.github.io/%E3%80%90HTB%20Academy%E3%80%91Linux%E5%8F%96%E8%AF%81%E7%BB%83%E4%B9%A0%E8%AE%B0%E5%BD%95/)
 <!-- BLOG-POST-LIST:END -->
 ---
