@@ -24,9 +24,9 @@
 --- 
 ### 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [PolyUCTF 2026 MISC Greenhat Writeup](https://clubsspades.github.io/polyuctf-2026-misc-greenhat/)
+- [EZ 工具与应急响应用途速查表](https://clubsspades.github.io/EZ%20%E5%B7%A5%E5%85%B7%E4%B8%8E%E5%BA%94%E6%80%A5%E5%93%8D%E5%BA%94%E7%94%A8%E9%80%94%E9%80%9F%E6%9F%A5%E8%A1%A8/)
 - [PolyUCTF 2026 MISC MIDI隐写 writeup](https://clubsspades.github.io/polyuctf-2026-misc-midi/)
-- [【HTB Academy】Linux取证练习记录](https://clubsspades.github.io/%E3%80%90HTB%20Academy%E3%80%91Linux%E5%8F%96%E8%AF%81%E7%BB%83%E4%B9%A0%E8%AE%B0%E5%BD%95/)
+- [PolyUCTF 2026 MISC Greenhat Writeup](https://clubsspades.github.io/polyuctf-2026-misc-greenhat/)
 <!-- BLOG-POST-LIST:END -->
 ---
 ![ClubsSpades's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ClubsSpades)
