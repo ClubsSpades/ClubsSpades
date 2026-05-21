@@ -26,9 +26,9 @@
 --- 
 ### 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [blender-mcp 实测感想：从 OpenMCP、Roo Code 到 Codex 的三种接入方式](https://clubsspades.github.io/blender-mcp%E5%AE%9E%E6%B5%8B%E6%84%9F%E6%83%B3%EF%BC%9A%E4%BB%8E%20OpenMCP%E3%80%81Roo%20Code%20%E5%88%B0%20Codex%20%E7%9A%84%E4%B8%89%E7%A7%8D%E6%8E%A5%E5%85%A5%E6%96%B9%E5%BC%8F/)
 - [Sherlock - Vantage](https://clubsspades.github.io/Vantage/Vantage/)
 - [EZ 工具与应急响应用途速查表](https://clubsspades.github.io/EZ%20%E5%B7%A5%E5%85%B7%E4%B8%8E%E5%BA%94%E6%80%A5%E5%93%8D%E5%BA%94%E7%94%A8%E9%80%94%E9%80%9F%E6%9F%A5%E8%A1%A8/)
-- [PolyUCTF 2026 MISC Greenhat Writeup](https://clubsspades.github.io/polyuctf-2026-misc-greenhat/)
 <!-- BLOG-POST-LIST:END -->
 ---
 ![ClubsSpades's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ClubsSpades)
