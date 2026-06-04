@@ -31,4 +31,4 @@
 - [EZ 工具与应急响应用途速查表](https://clubsspades.github.io/EZ%20%E5%B7%A5%E5%85%B7%E4%B8%8E%E5%BA%94%E6%80%A5%E5%93%8D%E5%BA%94%E7%94%A8%E9%80%94%E9%80%9F%E6%9F%A5%E8%A1%A8/)
 <!-- BLOG-POST-LIST:END -->
 ---
-![ClubsSpades's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ClubsSpades)
+
